@@ -42,3 +42,6 @@ This content is shared under the [Creative Commons Attribution 4.0 International
 ---
 
 For more information, visit [farr-rcn.org](https://www.farr-rcn.org)
+
+## Contact
+For questions or issues, contact **Yogesh Bhattarai** at yogeshbhattarai.sb@gmail.com.
